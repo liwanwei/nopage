@@ -10,4 +10,5 @@ github_username:  liwanwei
 weibo_username: 玩着玩着就伟大了
 
 # Build settings
-markdown: kramdown
+markdown: rdiscount
+encoding: utf-8  
