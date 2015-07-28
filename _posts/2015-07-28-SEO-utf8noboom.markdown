@@ -1,3 +1,8 @@
+---
+layout: page
+title: seo
+---
+
 #seo
 ##uc招聘信息
 
